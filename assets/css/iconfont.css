@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'xic-icon';
+    src: url('//at.alicdn.com/t/font_3286058_h8cdvx3m9w.eot?t=1648526842631'); /* IE9 */
+    src: url('//at.alicdn.com/t/font_3286058_h8cdvx3m9w.eot?t=1648526842631#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('//at.alicdn.com/t/font_3286058_h8cdvx3m9w.woff2?t=1648526842631') format('woff2'),
+         url('//at.alicdn.com/t/font_3286058_h8cdvx3m9w.woff?t=1648526842631') format('woff'),
+         url('//at.alicdn.com/t/font_3286058_h8cdvx3m9w.ttf?t=1648526842631') format('truetype');
+  }
